@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aidan O\'Connor CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="main_title">Aidan O Connor CV</string>
+    <string name="personal_details_label">Personal Details</string>
+    <string name="academic_label">Academic</string>
+    <string name="career_label">Career</string>
+    <string name="portfolio_label">Portfolio</string>
+    <string name="about_label">About</string>
+    <string name="title_activity_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_personal_details">Personal Details</string>
+    <string name="title_activity_academic">Academic</string>
+    <string name="title_activity_portfolio">Portfolio</string>
+    
+    
+    <string name="personal_details_info">
+        <![CDATA[
+        \n<b>Name:</b> Aidan O\'Connor<br>
+        \n<b>Address:</b> 8 College Road, Castleisland, Co. Kerry<br>
+        \n<b>Telephone:</b> 086-1798383<br>
+        \n<b>Email:</b> aidanmoconnor@gmail.com<br>
+        \n<b>Date of Birth:</b> 6th April 1987\n<br>
+        \n\n<br><br>
+        <b><u>Skills Profile:</u></b><br><br>
+       	\n<b><i>Programming</i></b>  &#8211; Java.<br>
+        \n<b><i>Graphic Design</i></b> &#8211; Excellent knowledge of Adobe Photoshop, InDesign & Illustrator.<br>
+        \n<b><i>Multimedia</i></b> &#8211; Adobe Flash & ActionScript.<br>
+        \n<b><i>Databases</i></b> &#8211; MySQL & Oracle.<br>
+        \n<b><i>Web Development</i></b> &#8211; HTML, CSS, Javascript, JQuery, PHP, Adobe Dreamweaver & WordPress.<br>
+        \n<b><i>Marketing</i></b> &#8211;  CRMs such as Salesforce & Zoho CRM. Knowledge of Google Analytics, Adwords, Social Media & Email marketing.<br>
+        \n<b><i>Networks</i></b> &#8211; Experience of Windows Server, configuring routers & switches.<br>
+        \n\n<br><br>
+        \n\n<b><u>Language Skills:</u></b> <br><br>
+       	\n&#8226; Leaving Certificate (Honours Level) French.<br>
+		\n&#8226; Junior Certificate (Honours Level) German.<br>
+		\n\n<br><br>
+		\n<b><u>Hobbies/Interests:</u></b> <br><br>
+       	\nTechnology, Web, Film, Reading, Music, Soccer, GAA, Basketball, Rugby, Boxing.<br>
+       	 ]]>	</string>
+
+    <string name="academic_details">
+        <![CDATA[        
+        <b><u>2004 - 2008</u></b><br>		
+        \n<b>Institute of Technology Tralee</b><br>
+		\n<b><i>BSc (Honours) in Computing with Multimedia Degree</i></b><br>
+		\n<i>Subjects included:</i> Java Programming, Databases, Multimedia & Web Development, Graphic Design, E-Business, Networks & Operating Systems.<br>
+		\nOverall result:  GPA of 3.46 (First Class Honours).<br><br>
+		\n\n<b><u>2011 - 2012</u></b><br>		
+		\n<b>Institute of Technology Tralee</b><br>
+		\n<b><i>Cert in Social Media & Web Analytics</i></b><br>
+		\n<i>Subjects included:</i> Web Analytics, Customer Experience Management, Digital Marketing & Social Media Software.<br><br>
+        \n\n<b><u>2013 - 2014</u></b><br>
+        \n<b>Institute of Technology Tralee</b><br>
+        \n<b><i>Cert in Mobile Applications Design & Development</i></b><br>
+        \n<i>Subjects included:</i> Native Mobile App Development, Mobile Web App Development, Design for Mobile Devices, Java & Interactive Interfaces.<br><br>
+        \n<b><u>2013</u></b><br>
+        \n<b>FETAC Level 6 &#8211; Train the Trainer</b><br>
+        \n<b><i>Certified Trainer Qualification</i></b><br>
+        \nEquipped with the skills and knowledge to run, manage and deliver effective training programmes.<br>
+        ]]>	</string>
+    
+    <string name="title_activity_career">Career</string>
+    <string name="work_experience">
+        <![CDATA[  
+        <b>Kerry Flyer, Limerick Rd, Castleisland, Co. Kerry</b><br>	
+		\n<b>May 2013 – Present</b><br>
+		\n<b><i>Position: IT Administrator</i></b><br>
+		\n<i>Responsibilities</i><br>
+		\n&#8226; IT Support for staff members.<br>
+		\n&#8226; Investigate & Diagnose Network Problems.<br>
+		\n&#8226; Hardware Maintenance & Testing.<br>
+		\n&#8226; Configuration & Installation of IT Solutions.<br>
+		\n&#8226; Website Design.<br>
+		\n&#8226; Managing Company\'s Salesforce System & Server.<br>
+		\n&#8226; Provide G.I.B.O. Training using Blacknight\'s services.<br>
+		\n&#8226; Provide Benefit 4 Training.<br>
+		\n&#8226; Social Media & Marketing.<br><br>
+		
+		\n\n<b>Aetna Inc., Tralee Rd, Castleisland, Co. Kerry</b><br>
+		\n<b>2008 – Aug 2011</b><br>
+		\n<b><i>Position: Claims Benefit Specialist</i></b><br>
+		\n<i>Responsibilities</i><br>
+		\n&#8226; Analysing & approving medical claims that cannot be auto adjudicated.<br>
+		\n&#8226; Applying medical necessity guidelines, identifying discrepancies &
+		applying cost containment measures to assist in the claim adjudication process.<br>
+		\n&#8226; Liaising with other team members regarding specific issues.<br>
+		\n&#8226; Advising supervisors on any areas where delays in the process could be eliminated.<br>
+		\n&#8226; Adhering to & meeting performance & production targets on a monthly basis.<br><br>
+		
+		\n\n<b>Walsh Colour Print, Tralee Rd, Castleisland, Co. Kerry</b><br>
+		\n<b>Summer 2007</b><br>	
+		\n<b><i>Position: Graphic Designer</i></b><br>
+		\n<i>Responsibilities</i><br>
+		\n&#8226; Provided Graphic Design services using software such as Photoshop, Illustrator & Quark.<br>
+		\n&#8226; Assessed clients\' needs & developed successful designs for promotion, marketing & collateral materials across a wide variety of industries.<br>
+		\n&#8226; Established rapport with clients, communicated vision of project while ensuring clients\' ultimate satisfaction.<br>
+		\n&#8226; Ensured consistently met client deadlines through project management & coordinating milestones against timetables.<br>
+		]]>	</string>
+	
+    <string name="about_page">
+        <![CDATA[
+       \n<h3><u>Our Services</u></h3>
+       \n<b><i>I design & develop routes to market, product marketing tools & unique communication mediums to reach target audiences & achieve strategic client objectives.</i></b><br><br>
+       \n<b>Mobile App Development</b><br>
+		\nI can build high quality native Android mobile applications. I also specialise in hybrid & responsive applications targeting iOS, Android & Windows phones & tablets.<br><br>
+        
+        \n\n<b>Web Design</b><br>
+		\n&#8226; Responsive Website Design<br>
+		\n&#8226; Content Management Systems<br><br>
+		
+		\n\n<b>Graphic Design</b><br>
+        \n&#8226; Print Design<br>
+        \n&#8226; Corporate Identity<br>
+        \n&#8226; Photography<br><br>
+        
+        \n\n<b>Digital Strategy</b><br>
+		\n&#8226; Search Engine Optimisation (SEO)<br>
+		\n&#8226; Social Media<br>
+		\n&#8226; Online Advertising<br>
+		\n&#8226; Web Analytics<br>
+		]]>
+    </string>
+        
+    <string name="portfolio_page">
+        <![CDATA[
+        \n<h3><u>Websites</u></h3>
+		\n<b>Irish Road Safety - Driver\'s Education</b><br>
+		\n<a href="http://www.irishroadsafety.ie">http://www.irishroadsafety.ie</a> <br>
+		\nThis is an online e-leaning application developed using Adobe Flash, PHP & SQL. It was designed to help educate learner drivers on different aspects of road safety. Additionally the website provides the user with a driver theory test which is designed to help the user in preparation for the official driver theory test.<br><br> 
+		
+		\n\n<b>Presentation Secondary School Website </b><br>
+		\n<a href="http://www.presentationcastleisland.ie">http://www.presentationcastleisland.ie</a> <br>
+		\nThis website was developed using WordPress. It provides a detailed outline of Presentation Secondary School including a gallery & contact information.<br><br>
+		
+		\n\n<h3><u>Mobile Applications</u></h3>
+		\n<b>Training Room Booking System</b><br>
+		\nA prototype of a training room booking system for Kerry Flyer. This app was developed using MIT App Inventor. User data is stored in a SQLite database.<br><br>
+		
+		\n\n<b>LifeScan</b><br>
+		\nThis is a QR code generator app. It generates a QR code containing the user’s personal & medical information.  This is a hybrid app created with HTML, CSS & JavaScript.<br><br>
+		
+		\n\n<h3><u>Graphic Design</u></h3>
+		\n<a href="http://aidanmoconnor.carbonmade.com/projects/2079159">View my graphic design portfolio</a><br>
+        ]]>
+    </string>
+ 
+</resources>
